@@ -61,6 +61,11 @@ module.exports = {
   "no-this-before-super": WARN,
   "no-undef": ERROR,
   "no-unreachable": WARN,
+  "no-empty-function": WARN,
+  "no-fallthrough": WARN,
+  "no-sequences": ERROR,
+  "no-throw-literal": ERROR,
+  "no-void": ERROR,
   "no-unused-expressions": [
     WARN,
     {
