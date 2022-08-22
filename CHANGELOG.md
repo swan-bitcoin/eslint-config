@@ -1,0 +1,1 @@
+# `@swan-bitcoin/eslint-config`
