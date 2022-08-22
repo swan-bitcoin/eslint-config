@@ -18,6 +18,8 @@ Then create a file named `.eslintrc` in the root of your project:
 }
 ```
 
+Optionally, for node only environments that do not require React you can extend `@swan-bitcoin/eslint-config/node`
+
 ### Jest + Testing Library
 
 This packages also ships with optional configuration options for projects that use [Jest](https://jestjs.io/) with [Testing Library](https://testing-library.com). To enable these rules, add the following to your `.eslintrc`:
@@ -40,3 +42,5 @@ Please note that because this ruleset is optional, we do not include the core li
   "jest": ">=26.0.0"
 }
 ```
+
+Optionally, for node only environments that do not require React you can extend `@swan-bitcoin/eslint-config/jest`

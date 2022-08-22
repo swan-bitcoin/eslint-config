@@ -63,9 +63,8 @@ module.exports = {
   "no-unreachable": WARN,
   "no-empty-function": WARN,
   "no-fallthrough": WARN,
-  "no-sequences": ERROR,
-  "no-throw-literal": ERROR,
-  "no-void": ERROR,
+  "no-throw-literal": WARN,
+  "no-void": WARN,
   "no-unused-expressions": [
     WARN,
     {
