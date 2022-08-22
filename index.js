@@ -28,7 +28,7 @@ const config = {
     commonjs: true,
     es6: true,
   },
-  plugins: ["import", "react", "react-hooks", "jsx-a11y"],
+  plugins: ["import", "react", "react-hooks", "jsx-a11y", "prettier"],
   settings: {
     ...reactSettings,
     ...importSettings,
