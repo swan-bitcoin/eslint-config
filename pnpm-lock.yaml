@@ -4,7 +4,6 @@ specifiers:
   '@babel/core': ^7.18.6
   '@babel/eslint-parser': ^7.18.2
   '@babel/preset-react': ^7.18.6
-  '@rushstack/eslint-patch': ^1.1.0
   '@types/eslint': ^8.4.1
   '@typescript-eslint/eslint-plugin': ^5.12.1
   '@typescript-eslint/parser': ^5.12.1
@@ -30,7 +29,6 @@ dependencies:
   '@babel/core': 7.18.10
   '@babel/eslint-parser': 7.18.9_7ura6loqb5b2nxcv4w7uypye6y
   '@babel/preset-react': 7.18.6_@babel+core@7.18.10
-  '@rushstack/eslint-patch': 1.1.4
   '@typescript-eslint/eslint-plugin': 5.33.1_vsoshirnpb7xw6mr7xomgfas2i
   '@typescript-eslint/parser': 5.33.1_4rv7y5c6xz3vfxwhbrcxxi73bq
   eslint-config-prettier: 8.5.0_eslint@8.22.0
@@ -455,10 +453,6 @@ packages:
     dependencies:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.13.0
-
-  /@rushstack/eslint-patch/1.1.4:
-    resolution: {integrity: sha512-LwzQKA4vzIct1zNZzBmRKI9QuNpLgTQMEjsQLf3BXuGYb3QPTP4Yjf6mkdX+X1mYttZ808QpOwAzZjv28kq7DA==}
-    dev: false
 
   /@testing-library/dom/8.17.1:
     resolution: {integrity: sha512-KnH2MnJUzmFNPW6RIKfd+zf2Wue8mEKX0M3cpX6aKl5ZXrJM1/c/Pc8c2xDNYQCnJO48Sm5ITbMXgqTr3h4jxQ==}
