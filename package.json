@@ -59,10 +59,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/swan-bitcoin/eslint-config"
+    "url": "https://github.com/swan-bitcoin/eslint-config.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/swan-bitcoin"
+    "registry": "https://npm.pkg.github.com"
   },
   "packageManager": "pnpm@7.9.3"
 }
